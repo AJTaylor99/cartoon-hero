@@ -1,0 +1,22 @@
+body{
+	background-color: sienna;
+}
+h1{
+			font-size: 30px;
+			color: teal;
+		}
+	h2{
+		color: blue;
+		font-size: 20px;
+	}
+
+	h2{
+		color: yellow;
+	}
+
+	.big{
+		font-size: 70px;
+	}
+	.uppercase{
+		 text-transform: uppercase;
+	}
